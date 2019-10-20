@@ -14,6 +14,6 @@ Pre-order, post-order and reverse post-order iterators would not work. Consider 
          G
          |
          H
-```mermaid
+```
 Post-order would be C, E, H, G, F, D, B, A.
 Reverse Post-order would be A, B, D, F, G, H, E, C.
